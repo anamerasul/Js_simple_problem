@@ -46,3 +46,10 @@ function findLargest (first,second){
 const larger =findLargest(156,256);
 
 console.log(larger);
+
+console.log(Math.random(12.96));
+
+function add(a, b){
+               return a + b;
+             }
+             console.log(add("adam" + "eve"))
